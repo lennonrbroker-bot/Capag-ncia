@@ -113,7 +113,7 @@ const projects: Project[] = [
   {
     title: "Agente de Marketing",
     description: "Especialista em estratégias e execução de campanhas de marketing",
-    image: "/Agente de_Marketing _.png",
+    image: "/gemini_generated_image_48i1hr48i1hr48i1 copy.png",
     details: {
       overview: "Um agente especializado em marketing que automatiza e otimiza suas campanhas para máximo impacto.",
       features: [
