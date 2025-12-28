@@ -24,7 +24,7 @@ const projects: Project[] = [
   {
     title: "Super Time de Agentes",
     description: "Equipe completa de agentes de IA trabalhando em conjunto para maximizar resultados",
-    image: "/Super Time de Agentes.png",
+    image: "/gemini_generated_image_mal1fomal1fomal1.png",
     details: {
       overview: "O Time de Agentes é uma solução revolucionária que permite que múltiplos agentes de IA trabalhem em conjunto, cada um com sua especialidade, para realizar tarefas complexas com precisão e eficiência incomparáveis.",
       features: [
