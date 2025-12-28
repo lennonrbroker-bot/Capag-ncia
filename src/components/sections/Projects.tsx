@@ -87,7 +87,7 @@ const projects: Project[] = [
   {
     title: "Super Robô Assistente",
     description: "Assistente virtual inteligente para automação de processos e atendimento",
-    image: "/Criando um Super Roboo Assistente.png",
+    image: "/gemini_generated_image_yw0pknyw0pknyw0p.png",
     details: {
       overview: "O James Faz Tudo é um super agente criado em n8n, que entende texto, imagem e voz — e pode fazer demonstrações automáticas do seu trabalho de automação para impressionar leads e fechar contratos com mais facilidade.",
       features: [
