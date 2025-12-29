@@ -139,7 +139,7 @@ const projects: Project[] = [
   {
     title: "Agente de Ligação com IA",
     description: "Automação inteligente de chamadas e follow-ups comerciais",
-    image: "/Agente de Ligacao com IA_.png",
+    image: "/gemini_generated_image_up6g9aup6g9aup6g.png",
     details: {
       overview: "Um agente especializado em comunicação que automatiza e humaniza o processo de ligações e follow-ups.",
       features: [
